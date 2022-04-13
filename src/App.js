@@ -23,19 +23,19 @@ function App() {
           </p>
           <div className='div1'>
             <p>
-              <p className='text-2'>Sobre eu</p>
+              <p className='subtitle1'>Sobre eu</p>
               <h1 className='h1-1'> Olá,<br />
-                me chamo</h1><h1 className='h1-2'>Cassiano</h1><br />
-              Programador frontend<br /><br />
-              Você está procurando um programador para criar seu sistema<br /> ou website? Vamos criar um projeto juntos.<br />
-              Me contrate
+                me chamo</h1><h1 className='h1-2'>João Davi</h1>
+              <p className='text-6'>Programador frontend</p>
+              <p className='text-7'>Você está procurando um programador para<div className='text-8'>criar seu sistema<br /> ou website?</div> Vamos criar um projeto juntos.</p><br />
+              <button className='button1'> Me contrate</button>
             </p>
-            <img src={logo} />
+            <img src={logo} className='img-1' />
           </div>
           <div className='div1'>
+          <p className='subtitle2'>Serviços</p>
             <img src={img1} />
             <p>
-              Serviços
               Meus clientes sabem que eu sempre<br /> entregarei um serviço com a qualidade<br /> máxima |<br /><br />
               Cada projeto para mim é único, dando o meu máximo para entregar tudo<br /> aquilo que foi combinado. Com o foco pensado em cada projeto, assim<br /> prestando um serviço que será lembrado para sempre!<br />
               <br />
@@ -46,7 +46,7 @@ function App() {
             </p></div>
           <div className='div1'>
             <p>
-              Entre em contato comigo<br />
+            <p className='subtitle3'>Entre em contato comigo</p><br />
               Vamos conversar e calcular um valor para o seu projeto |<br />
               Seu nome
               Seu email
