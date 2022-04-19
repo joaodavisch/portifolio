@@ -8,7 +8,7 @@ import logo from '../src/mookup/imagens-background/logo.svg';
 import img1 from '../src/mookup/imagens-background/img1.svg';
 import img2 from '../src/mookup/imagens-background/img2.svg';
 import img3 from '../src/mookup/imagens-background/img3.svg';
-import arrow from '../s2rc/mookup/icones/ic-arrow.svg';
+import arrow from '../src/mookup/icones/ic-arrow.svg';
 import newspaper from '../src/mookup/icones/ic-programacao-prototipos.svg';
 import websites from '../src/mookup/icones/ic-websites.svg';
 import phone from '../src/mookup/icones/ic-phone.svg';

@@ -151,11 +151,13 @@ width: 15px;
   font-weight: bold;
   font-size: 30px;
   color: #1e2043;
+  font-family: 'Playfair display'
 }
 .textConversar {
   font-weight: bold;
   font-size: 30px;
   color: #1e2043;
+  font-family: 'Playfair display'
 }
 .textProject {
   font-weight: bold;
@@ -176,7 +178,7 @@ font-size: 25px;
 font-weight: bold;
 }
 .textProjeto {
-  font-size: 20px;
+  font-size: 15px;
   color: #6a6a6a;
 }
 .textNumero {
@@ -186,17 +188,19 @@ font-weight: bold;
 
 .h1-1 {
   color: #1e2043;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Playfair display'
 }
 .h1-2 {
   color: #8b7ff8;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Playfair display'
 }
 .h1-3 {
   color: #1e2043;
   font-size: 40px;
+  font-family: 'Playfair display'
 }
 .h1-4 {
   color: #1e2043;
   font-size: 40px;
+  font-family: 'Playfair display'
 }
