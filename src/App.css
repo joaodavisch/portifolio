@@ -31,6 +31,7 @@
 }
 .div2 {
   display: flex;
+  background: #f9fafb;
 }
 .div4 {
   display: flex;
@@ -84,9 +85,17 @@
   display: flex;
   height: 300px;
   width: 300px;
-  
 }
-
+.mobile {
+height: 15px;
+width: 15px;
+}
+.mobileBackgroud {
+  background: #8b7ff8;
+  border-radius: 11px;
+  padding: 2px;
+  align-items: center;
+}
 
 /* TEXT */
 
@@ -114,50 +123,63 @@
   display: inline-block;
   }
 
-.text-1 {
+.textInfo {
   font-size: 15px;
   display: flex;
   justify-content: space-between;
 }
-.text-4 {
+.textInfoFoot {
   text-align: center;
 }
-.text-6 {
+.textFrontend {
   font-size: 30px;
   color: #255983;
 }
-.text-7 {
+.textWebsite {
   font-size: 16px;
   color: #666666;
 }
-.text-8 {
+.textSistema {
   font-size: 16px;
   color: #255983;
 }
-.text-12 {
+.textMobile {
+  font-size: 16px;
+  color: #1e2043;
+}
+.textClientes {
   font-weight: bold;
   font-size: 30px;
   color: #1e2043;
 }
-.text-13 {
+.textConversar {
+  font-weight: bold;
+  font-size: 30px;
+  color: #1e2043;
+}
+.textProject {
   font-weight: bold;
   font-size: 30px;
   color: #8b7ff8;
 }
-.text-14 {
+.textBarra {
   font-weight: bold;
   font-size: 30px;
   color: #b2b2b2;
 }
-.text-15 {
+.textBrasil {
   font-size: 20px;
   color: #b3b3b3;
 }
-.text-16 {
+.textEmail {
 font-size: 25px;
 font-weight: bold;
 }
-.text-17 {
+.textProjeto {
+  font-size: 20px;
+  color: #6a6a6a;
+}
+.textNumero {
   font-size: 20px;
   color: #6a6a6a;
 }
